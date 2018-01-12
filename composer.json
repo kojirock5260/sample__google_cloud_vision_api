@@ -1,9 +1,9 @@
 {
-  "name": "yudaifujita0121/GoogleCloudVisionApiSample",
+  "name": "yudaifujita0121/google-cloud-vision-api-sample",
   "version": "0.1.0",
-  "description": "GoogleCloudVisionApiSample",
+  "description": "google-cloud-vision-api-sample",
   "keywords": ["GoogleCloudVision","api","sample"],
-  "homepage": "https://github.com/yudaifujita0121/GoogleCloudVisionApiSample",
+  "homepage": "https://github.com/yudaifujita0121/google-cloud-vision-api-sample",
   "license"  : "MIT",
   "authors": [
     {

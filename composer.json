@@ -1,0 +1,21 @@
+{
+  "name": "kojirock/GoogleCloudVisionApiSample",
+  "version": "0.1.0",
+  "description": "GoogleCloudVisionApiSample",
+  "keywords": ["GoogleCloudVision","api","sample"],
+  "homepage": "https://github.com/yudaifujita0121/GoogleCloudVisionApiSample",
+  "license"  : "MIT",
+  "authors": [
+    {
+      "name": "kojirock",
+      "email": "yudaifujita0121@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.6.0",
+    "guzzlehttp/guzzle": "^6.0"
+  },
+  "autoload": {
+    "psr-4": {"Kojirock\\GoogleCloudVisionApiSample\\": "src/"}
+  }
+}
